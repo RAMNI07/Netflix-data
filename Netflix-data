@@ -1,0 +1,11 @@
+cd path/to/Netflix-data
+git init
+git remote add origin https://github.com/RAMNI07/Netflix-data.git
+
+git add .
+git commit -m "Initial commit: Netflix data analysis project"
+git branch -M main
+git push -u origin main
+
+
+
