@@ -39,11 +39,3 @@ A data-driven exploration of Netflix’s content library using Python. This proj
 - Top genres
 - Content distribution by country
 
----
-
-## 🚀 How to Run
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/your-username/netflix-data-analysis.git
-   cd netflix-data-analysis
